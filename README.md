@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I working as a back-end developer at Veridyen. But I'm not limited to my job title. Sometimes you can see me as a front-end developer or linux system administrator or project manager. The reason why I don't call myself a Full-Stack developer is that I'm only happy when I work as a back-end developer.
+![alt text](panda.jpg "Panda")
+
+I working as a back-end developer at [Veridyen](https://www.veridyen.com "A cool hosting company in Turkey"). But I'm not limited to my job title. Sometimes you can see me as a front-end developer or linux system administrator or project manager. The reason why I don't call myself a Full-Stack developer is that I'm only happy when I work as a back-end developer.
 
 My tech stacks are: Laravel, Lumen, Slim Framework, CodeIgniter, MySQL, MongoDB, SQLite, Bash Scripting, GNU Linux Distributions. Also, other things about the a hosting company skills like as control panels (cpanel, plesk), apache, nginx, litespeed softwares, networking, security etc.
 
