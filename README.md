@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![alt text](panda.jpg "Panda")
+![Hi there 👋](panda.jpg "Panda")
 
 I working as a back-end developer at [Veridyen](https://www.veridyen.com "A cool hosting company in Turkey"). But I'm not limited to my job title. Sometimes you can see me as a front-end developer or linux system administrator or project manager. The reason why I don't call myself a Full-Stack developer is that I'm only happy when I work as a back-end developer.
 
